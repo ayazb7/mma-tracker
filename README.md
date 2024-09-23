@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img src="src\projects\images\portfolio.png" alt="MMA Stats logo"></a>
+    <img src="mmastats.png" alt="MMA Stats logo"></a>
 </p>
 <h3 align="center">MMA Tracker</h3>
 
